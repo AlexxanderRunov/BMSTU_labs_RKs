@@ -1,0 +1,15 @@
+/Users/aleksandr/RiderProjects/Lab2/Lab2/bin/Debug/net7.0/Lab2
+/Users/aleksandr/RiderProjects/Lab2/Lab2/bin/Debug/net7.0/Lab2.deps.json
+/Users/aleksandr/RiderProjects/Lab2/Lab2/bin/Debug/net7.0/Lab2.runtimeconfig.json
+/Users/aleksandr/RiderProjects/Lab2/Lab2/bin/Debug/net7.0/Lab2.dll
+/Users/aleksandr/RiderProjects/Lab2/Lab2/bin/Debug/net7.0/Lab2.pdb
+/Users/aleksandr/RiderProjects/Lab2/Lab2/obj/Debug/net7.0/Lab2.csproj.AssemblyReference.cache
+/Users/aleksandr/RiderProjects/Lab2/Lab2/obj/Debug/net7.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/RiderProjects/Lab2/Lab2/obj/Debug/net7.0/Lab2.AssemblyInfoInputs.cache
+/Users/aleksandr/RiderProjects/Lab2/Lab2/obj/Debug/net7.0/Lab2.AssemblyInfo.cs
+/Users/aleksandr/RiderProjects/Lab2/Lab2/obj/Debug/net7.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/aleksandr/RiderProjects/Lab2/Lab2/obj/Debug/net7.0/Lab2.dll
+/Users/aleksandr/RiderProjects/Lab2/Lab2/obj/Debug/net7.0/refint/Lab2.dll
+/Users/aleksandr/RiderProjects/Lab2/Lab2/obj/Debug/net7.0/Lab2.pdb
+/Users/aleksandr/RiderProjects/Lab2/Lab2/obj/Debug/net7.0/Lab2.genruntimeconfig.cache
+/Users/aleksandr/RiderProjects/Lab2/Lab2/obj/Debug/net7.0/ref/Lab2.dll
