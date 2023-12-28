@@ -1,0 +1,11 @@
+C:\Users\Acer\RiderProjects\lab4\lab4\bin\Release\lab4.exe.config
+C:\Users\Acer\RiderProjects\lab4\lab4\bin\Release\lab4.exe
+C:\Users\Acer\RiderProjects\lab4\lab4\bin\Release\lab4.pdb
+C:\Users\Acer\RiderProjects\lab4\lab4\obj\Release\lab4.csproj.AssemblyReference.cache
+C:\Users\Acer\RiderProjects\lab4\lab4\obj\Release\lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\RiderProjects\lab4\lab4\obj\Release\lab4.Properties.Resources.resources
+C:\Users\Acer\RiderProjects\lab4\lab4\obj\Release\lab4.csproj.GenerateResource.cache
+C:\Users\Acer\RiderProjects\lab4\lab4\obj\Release\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Acer\RiderProjects\lab4\lab4\obj\Release\lab4.exe
+C:\Users\Acer\RiderProjects\lab4\lab4\obj\Release\lab4.pdb
+C:\Users\Acer\RiderProjects\lab4\lab4\obj\Release\lab4.Form1.resources
